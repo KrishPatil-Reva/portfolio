@@ -21,6 +21,7 @@ export default function App() {
         <About />
         <Education />
         <Skills />
+        {/*Projects section */}
         <Projects />
         <Certificates />
         <Achievements />
